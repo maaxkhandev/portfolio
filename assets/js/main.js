@@ -271,6 +271,7 @@
       mirror: false,
     });
   });
+  new PureCounter();
 })();
 
 /**
